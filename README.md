@@ -2,7 +2,7 @@
 
 Gets data from OpenWeatherMap API
 
-Deployed url: https://qd-weather.netlify.app/
+Deployed url: 
 
 _____________________________________________________________________________-
 
