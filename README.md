@@ -1,3 +1,10 @@
+# React Weather app.
+
+Gets data from OpenWeatherMap API
+
+Deployed url: https://qd-weather.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
