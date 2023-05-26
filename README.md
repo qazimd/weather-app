@@ -4,6 +4,7 @@ Gets data from OpenWeatherMap API
 
 Deployed url: https://qd-weather.netlify.app/
 
+_____________________________________________________________________________-
 
 # Getting Started with Create React App
 
